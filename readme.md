@@ -12,6 +12,7 @@
 
 ## TOOLS
 * CALCULATOR
+* NOTES
 
 ## REFERENCES
 * MAKEFILE - https://www.gnu.org/software/make/
