@@ -18,6 +18,12 @@
 * A : COMMUNICATION
 * B : DOCUMENTATION
 
+## GAUGE
+* A : RPM
+* B : SPEED
+* C : FUEL
+* D : TEMP
+
 ## TOOLS
 * A : CALCULATOR
 * B : NOTES
