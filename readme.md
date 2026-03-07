@@ -13,6 +13,7 @@
 ## TOOLS
 * CALCULATOR
 * NOTES
+* PART MAP
 
 ## REFERENCES
 * MAKEFILE - https://www.gnu.org/software/make/
