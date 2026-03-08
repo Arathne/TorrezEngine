@@ -18,15 +18,15 @@
 * A : COMMUNICATION
 * B : DOCUMENTATION
 
+## TOOLS
+* A : CALCULATOR
+* B : NOTES
+
 ## GAUGE
 * A : RPM
 * B : SPEED
 * C : FUEL
 * D : TEMP
-
-## TOOLS
-* A : CALCULATOR
-* B : NOTES
 
 ## REFERENCES
 * GNU MAKE - https://www.gnu.org/software/make/manual/make.html
